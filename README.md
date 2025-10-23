@@ -13,3 +13,9 @@ As a collective group, we built a relational data on the workings of a tennis ma
 # Data Model:
 Explanation of data model:
 Our model is structured off the collegiate tennis management system, with the Team _entity_ serving as the central component.
+
+# Data Dictionary:
+
+# Queries:
+
+# Database information:
