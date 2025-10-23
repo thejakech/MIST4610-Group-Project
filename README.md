@@ -12,7 +12,14 @@ As a collective group, we built a relational data on the workings of a tennis ma
 
 # Data Model:
 Explanation of data model:
-Our model is structured off the collegiate tennis management system, with the Team _entity_ serving as the central component.
+Our model is structured off the collegiate tennis management system, with the Team _entity_ serving as the central component. Inside the _Team_ entity contains a one-to-one relationship between Coach, with a single coach assigned to a team and each team having a specific coach. The Coach entity itself also includes information such as first name, last name, expereince, years, and email.
+
+Teams are also composed of many players, and players can represent different teams in different seasons. To portray this, we used a many-to-many relationship between _Team_ and _Player_ through the third entity: _TeamRoster_. The Player table also contains information such as first name, last name, gender, class year, nationality.
+
+Teams compete in Tournaments and this is shown through the entity: _TournamentResults_ that links _Team_ and _Match_ through a many-to-many relationship beccause each tournament has multiple matches where teams and players participate. _Tournament_ include name, level, start date, end date.
+
+The _Match_ entity holds details on round, player, and team. Since many players are in a match, a many-to-many relationship is used to connect _Match_ and _Player_ through _matchPLayer_. 
+
 
 # Data Dictionary:
 
