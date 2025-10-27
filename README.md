@@ -1,7 +1,7 @@
 # MIST4610-Group-Project Group 4
 
 **Team Members:**
-1. Jake Cheong 
+1. Jake Cheong [@JakeCheong](https://github.com/thejakech)
 2. Brian Kim
 3. Bethel Mekuria [@bethelmeku](https://github.com/bethelmeku)
 4. Eric Xu
