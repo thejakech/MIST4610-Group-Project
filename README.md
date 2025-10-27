@@ -4,8 +4,8 @@
 1. Jake Cheong [@JakeCheong](https://github.com/thejakech)
 2. Brian Kim
 3. Bethel Mekuria [@bethelmeku](https://github.com/bethelmeku)
-4. Eric Xu
-5. Liam McKenna
+4. Eric Xu 
+5. Liam McKenna [@LiamMcKenna](https://github.com/LiamPMcKenna04)
 
 # Problem Discription:
 As a collective group, we built a relational data on the workings of a tennis management system. The central entity in the model is the _Team_ entity with each team representing many individual players in their respective partcipitating teams as well interlinking coaches, tournaments, match details, rankings, and conference details. This system is designed to accurately model the relationship between each entites. After populating each entitity with sample data we aim to simulate accurate and realistic tennis information. Ultimately, this database will serve as an analytical tool and a comprehensive management for evaluating the understanding the organization of tennis program.
