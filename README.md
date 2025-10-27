@@ -104,11 +104,10 @@ Query 8 helps managers and tournament organizers identify which teams have not y
 Query 9 helps managers see the age composition and roster size of each team. This helps managers identify whether a team is mostly experienced upperclassmen, who are seasoned and my bring leadership or developing younger players. The roster size data allows them to assess player availability, which helps ensure that each team has enough athletes to cover tournaments and avoid burnout.
 
 **Query 10:**
-
+lists the first and last name of the players who played the most rounds by descending order. By using the COUNT function by matches played then doing an inner join to return players with at least one match. Then sorting by descending order.
 <img width="551" height="495" alt="Screenshot 2025-10-26 at 11 05 25 PM" src="https://github.com/user-attachments/assets/acee2b74-b815-4698-8f60-99c92527ae4b" />
 
-
- Query 10
+Query 10 provides insightful information to managers by helping them track player activity and experience. It allows them to see which specific player gets the most playing time and then can decide if certain players need more playing time or reset which allows for better team engagement and efficient rotations.
 
 # Database information:
 
