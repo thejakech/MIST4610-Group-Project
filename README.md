@@ -63,11 +63,11 @@ Query 2 allows managers to evaluate the success of hosting a tournament in Texas
 
 Query 3 helps managers to quickly view all teams associated with the SEC conference. Managers can use this information to schedule matches within the conference and coordinate conference level events or tournaments. It also allows them to analyze how many and which teams fall under a particular classification, such as the SEC or ACC.
 
-**Query 4:** Lists all players from UGA, showing each player’s ID, name, age, and gender. It connects the team, teamRoster, and player tables to identify which players belong to the University of Georgia’s tennis team.
+**Query 4:** Lists all player rankings along with their first name, last name, and their team ranking. It joins ranking and player tables, then sorts the results by player ranking in ascending order.
 
-<img width="652" height="470" alt="image" src="https://github.com/user-attachments/assets/bc022a01-e0ee-4eb2-94d5-2ea0effea238" />
+<img width="1124" height="497" alt="Screenshot 2025-10-26 at 10 58 38 PM" src="https://github.com/user-attachments/assets/c8bd0d5d-0bf6-4c9f-a917-cf4144256bea" />
 
-Query 4 allows managers to view the roster of a specific school’s team like the University of Georgia. It helps them verify team rosters and player details before tournaments and ensures compliance with age or gender eligibility rules. It also helps generate school specific reports.
+Query 4 allows managers to view the complete ranking from top to bottom, which is essential for tournaments. Managers use this to understand where their players stand regarding competitiveness and identify any goals to improve ranking if needed. 
 
 
 **Query 5:** Lists the first name, last name, and age of all players whose age is above the average age of all players in the system. It first calculates the average age across all players, then filters out the players who are younger than the average age. The results are sorted in descending order.
