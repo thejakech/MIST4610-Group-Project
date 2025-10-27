@@ -3,7 +3,7 @@
 **Team Members:**
 1. Jake Cheong 
 2. Brian Kim
-3. Bethel Mekuria
+3. Bethel Mekuria [@bethelmeku](https://github.com/bethelmeku)
 4. Eric Xu
 5. Liam McKenna
 
