@@ -2,7 +2,7 @@
 
 **Team Members:**
 1. Jake Cheong [@JakeCheong](https://github.com/thejakech)
-2. Brian Kim
+2. Brian Kim [@Briandjk](https://github.com/Briandjk)
 3. Bethel Mekuria [@bethelmeku](https://github.com/bethelmeku)
 4. Eric Xu 
 5. Liam McKenna [@LiamMcKenna](https://github.com/LiamPMcKenna04)
