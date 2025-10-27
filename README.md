@@ -1,4 +1,4 @@
-# MIST4610-Group-Project Group 4
+# MIST4610-Project1-Group 4 for Project 1
 
 **Team Members:**
 1. Jake Cheong [@JakeCheong](https://github.com/thejakech)
