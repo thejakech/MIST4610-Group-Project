@@ -22,6 +22,8 @@ Teams compete in Tournaments and this is shown through the entity: _TournamentRe
 
 The _Match_ entity holds details on round, player, and team. Since many players are in a match, a many-to-many relationship is used to connect _Match_ and _Player_ through _matchPLayer_. 
 
+<img width="827" height="708" alt="Screenshot 2025-10-26 at 9 29 47 PM" src="https://github.com/user-attachments/assets/bab09a65-aada-4217-b5b9-c6083fb606c5" />
+
 
 # Data Dictionary:
 
