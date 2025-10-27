@@ -1,7 +1,7 @@
 # MIST4610-Group-Project Group 4
 
 **Team Members:**
-1. Jake Cheong
+1. Jake Cheong 
 2. Brian Kim
 3. Bethel Mekuria
 4. Eric Xu
@@ -97,7 +97,7 @@ Query 7 allows managers to identify and recognize the most committed and active 
 
 Query 8 helps managers and tournament organizers identify which teams have not yet competed in any tournaments. This would allow for outreach and engagement efforts to make sure each team has the opportunity to join upcoming events. It also helps with scheduling and planning because can target these inactive teams for invitations or reminders.
 
-**Query 9:**calculates the average player age and the total roster size for each college team. It joins the team, teamRoster, and player tables to combine team and player data. It groups the results by each college, and sorts them from the oldest average team to the youngest.
+**Query 9:** calculates the average player age and the total roster size for each college team. It joins the team, teamRoster, and player tables to combine team and player data. It groups the results by each college, and sorts them from the oldest average team to the youngest.
 
 <img width="787" height="572" alt="image" src="https://github.com/user-attachments/assets/0e3e1862-0396-4ae7-a979-4e1d7f7be954" />
 
