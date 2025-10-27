@@ -103,3 +103,5 @@ Query 8 helps managers and tournament organizers identify which teams have not y
 
 Query 9 helps managers see the age composition and roster size of each team. This helps managers identify whether a team is mostly experienced upperclassmen, who are seasoned and my bring leadership or developing younger players. The roster size data allows them to assess player availability, which helps ensure that each team has enough athletes to cover tournaments and avoid burnout.
 # Database information:
+
+Name of database: cs_btm23290
