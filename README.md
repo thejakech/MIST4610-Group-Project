@@ -39,9 +39,13 @@ Query 1 allows managers to quickly verify player eligibility and team rosters by
 
 Query 2 allows managers to evaluate the success of hosting a tournament in Texas by using historical data. This would help them determine whether to schedule future tournaments in Texas or not based on the quality of teams that have won there, and compare the Texas venue performance against tournaments held in other states to make future location decisions.
 
-Query 3
+**Query 3:** Lists the team’s ID, college name, and division of teams that belong to the “SEC” conference. It connects the team and conference tables to filter only teams whose conference classification is “SEC” and then sorts the results alphabetically by college name.
+<img width="602" height="220" alt="image" src="https://github.com/user-attachments/assets/d2635b49-ed27-43bc-9ad1-1330149e28cf" />
+Query 3 helps managers to quickly view all teams associated with the SEC conference. Managers can use this information to schedule matches within the conference and coordinate conference level events or tournaments. It also allows them to analyze how many and which teams fall under a particular classification, such as the SEC or ACC.
 
-Query 4
+**Query 4:** Lists all players from UGA, showing each player’s ID, name, age, and gender. It connects the team, teamRoster, and player tables to identify which players belong to the University of Georgia’s tennis team.
+<img width="552" height="221" alt="image" src="https://github.com/user-attachments/assets/f6740194-5516-4016-b71f-2c7991b3178b" />
+Query 4 allows managers to view the roster of a specific school’s team like the University of Georgia. It helps them verify team rosters and player details before tournaments and ensures compliance with age or gender eligibility rules. It also helps generate school specific reports.
 
 
 **Query 5:** Lists the first name, last name, and age of all players whose age is above the average age of all players in the system. It first calculates the average age across all players, then filters out the players who are younger than the average age. The results are sorted in descending order.
