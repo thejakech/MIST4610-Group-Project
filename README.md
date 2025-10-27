@@ -105,6 +105,8 @@ Query 9 helps managers see the age composition and roster size of each team. Thi
 
 **Query 10:**
 
+<img width="551" height="495" alt="Screenshot 2025-10-26 at 11 05 25 PM" src="https://github.com/user-attachments/assets/acee2b74-b815-4698-8f60-99c92527ae4b" />
+
 
  Query 10
 
