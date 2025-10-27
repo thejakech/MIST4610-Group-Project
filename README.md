@@ -78,4 +78,10 @@ Query 7 allows managers to identify and recognize the most committed and active 
 <img width="625" height="500" alt="image" src="https://github.com/user-attachments/assets/04e42e84-a577-4fa8-98e2-a3e1d5efbfee" />
 
 Query 8 helps managers and tournament organizers identify which teams have not yet competed in any tournaments. This would allow for outreach and engagement efforts to make sure each team has the opportunity to join upcoming events. It also helps with scheduling and planning because can target these inactive teams for invitations or reminders.
+
+**Query 9:**calculates the average player age and the total roster size for each college team. It joins the team, teamRoster, and player tables to combine team and player data. It groups the results by each college, and sorts them from the oldest average team to the youngest.
+
+<img width="787" height="572" alt="image" src="https://github.com/user-attachments/assets/0e3e1862-0396-4ae7-a979-4e1d7f7be954" />
+
+Query 9 helps managers see the age composition and roster size of each team. This helps managers identify whether a team is mostly experienced upperclassmen, who are seasoned and my bring leadership or developing younger players. The roster size data allows them to assess player availability, which helps ensure that each team has enough athletes to cover tournaments and avoid burnout.
 # Database information:
