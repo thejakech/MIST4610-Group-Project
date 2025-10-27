@@ -25,6 +25,22 @@ The _Match_ entity holds details on round, player, and team. Since many players 
 
 # Data Dictionary:
 
+<img width="663" height="358" alt="Screenshot 2025-10-26 at 9 23 09 PM" src="https://github.com/user-attachments/assets/309b5032-509f-48b4-944d-3dee3ee18415" />
+
+<img width="656" height="366" alt="Screenshot 2025-10-26 at 9 23 15 PM" src="https://github.com/user-attachments/assets/254964cc-4911-45a6-8984-397133dd8ab8" />
+
+<img width="674" height="538" alt="Screenshot 2025-10-26 at 9 23 30 PM" src="https://github.com/user-attachments/assets/609514f8-8133-4d37-a170-6dd41cdf1c3c" />
+
+<img width="668" height="328" alt="Screenshot 2025-10-26 at 9 23 36 PM" src="https://github.com/user-attachments/assets/163d42f8-efd3-4fac-a01f-a746d1aa6333" />
+
+<img width="691" height="664" alt="Screenshot 2025-10-26 at 9 23 52 PM" src="https://github.com/user-attachments/assets/efc78f11-181a-4e31-9a1c-85033d2cb0a0" />
+
+<img width="693" height="625" alt="Screenshot 2025-10-26 at 9 24 02 PM" src="https://github.com/user-attachments/assets/4e7f1e52-9d72-432b-854c-2e574a9857e0" />
+
+<img width="660" height="390" alt="Screenshot 2025-10-26 at 9 24 10 PM" src="https://github.com/user-attachments/assets/84ea10fd-c242-4487-879b-754b7ba8b6b0" />
+
+<img width="689" height="318" alt="Screenshot 2025-10-26 at 9 24 15 PM" src="https://github.com/user-attachments/assets/58001ae6-59b2-4dde-b7f7-efd2e94310b2" />
+
 # Queries: 
 **QUERY 1**: Lists each player’s first name, last name, age, and the college team they play for. It connects the player information with their team roster to show which college team each player represents.
 
