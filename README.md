@@ -73,6 +73,9 @@ Query 6 allows managers to identify competitors who do not have rankings. Rankin
 Query 7 allows managers to identify and recognize the most committed and active team that has participated in the most tournaments. This is useful for award programs and also attracting sponsors who want to partner with highly visible teams. Managers can also use this data to allocate resources more efficiently, as teams that participate more actively may need additional support with expenses like traveling and tennis equipment.
 
 
+**Query 8:** lists all college teams that have not participated in any tournaments. It compares the team table with the tournamentResult table and returns only teams that do not have any matching tournament entries. The results are sorted alphabetically by the college's name
 
+<img width="625" height="500" alt="image" src="https://github.com/user-attachments/assets/04e42e84-a577-4fa8-98e2-a3e1d5efbfee" />
 
+Query 8 helps managers and tournament organizers identify which teams have not yet competed in any tournaments. This would allow for outreach and engagement efforts to make sure each team has the opportunity to join upcoming events. It also helps with scheduling and planning because can target these inactive teams for invitations or reminders.
 # Database information:
